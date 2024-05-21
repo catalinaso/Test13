@@ -7,3 +7,6 @@ class Producto:
         self.nombre = nombre
         self.precio = precio
         self.stock = stock
+
+    def imprimeAlgo():
+        print("Esto es una prueba")
